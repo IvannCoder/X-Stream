@@ -107,3 +107,21 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 │   ├── PROJECT_CHARTER.md              # Scope, objectives, risks, & team governance
 │   └── REQUIREMENTS.md                 # MoSCoW functional & non-functional specs
 └── README.md                           # Main repository overview & documentation guide
+
+---
+
+## 👥 Team Members
+
+Developed by Team **X-PANDA** for software engineering coursework:
+
+| Name | Role | Student ID |
+| :--- | :--- | :--- |
+| **Hein Thura Naung (Ivan)** | Full-Stack Lead / Systems Architect | 6705140056 |
+| **Aung Myo Hlaing (Olary)** | Database Specialist / Backend Engineer | 6705140040 |
+| **Hein Zaw Linn (Hubert)** | UI/UX Designer / Frontend Engineer | 6705140038 |
+
+---
+
+## 📄 License
+
+This project is created for academic purposes as part of the software engineering curriculum. All rights reserved by the project team.
