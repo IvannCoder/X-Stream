@@ -97,7 +97,7 @@ erDiagram
     PLAYER_PROFILES ||--o{ MEDICAL_RECORDS : "has"
     PLAYER_PROFILES ||--o{ MATCH_STATISTICS : "records"
     MATCHES ||--o{ MATCH_STATISTICS : "tracks"
-
+```
 For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 
 ---
