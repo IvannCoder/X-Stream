@@ -107,7 +107,7 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 │   ├── PROJECT_CHARTER.md              # Scope, objectives, risks, & team governance
 │   └── REQUIREMENTS.md                 # MoSCoW functional & non-functional specs
 └── README.md                           # Main repository overview & documentation guide
-
+```
 ---
 
 ## 👥 Team Members
