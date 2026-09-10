@@ -108,8 +108,14 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 └── README.md                           # Main repository overview & documentation guide
 ## 👥 Team Members
 
-| Name | Student ID | Nickname | Role |
-| :--- | :--- | :--- | :--- |
-| **Hein Thura Naung** | `6705140056` | Ivan | Full-Stack Lead / Systems Architect |
-| **Aung Myo Hlaing** | `6705140040` | Olary | Database Specialist / Backend Engineer |
-| **Hein Zaw Linn** | `6705140038` | Hubert | UI/UX Designer / Frontend Engineer |
+**Hein Thura Naung (Ivan)**  
+* **ID:** `6705140056`  
+* **Role:** Full-Stack Lead / Systems Architect  
+
+**Aung Myo Hlaing (Olary)**  
+* **ID:** `6705140040`  
+* **Role:** Database Specialist / Backend Engineer  
+
+**Hein Zaw Linn (Hubert)**  
+* **ID:** `6705140038`  
+* **Role:** UI/UX Designer / Frontend Engineer
