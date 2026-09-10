@@ -98,6 +98,7 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 ---
 
 ## 📁 Project Structure
+
 ```text
 .
 ├── docs/                               # Agile Project Documentation
@@ -106,4 +107,3 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 │   ├── PROJECT_CHARTER.md              # Scope, objectives, risks, & team governance
 │   └── REQUIREMENTS.md                 # MoSCoW functional & non-functional specs
 └── README.md                           # Main repository overview & documentation guide
-👥 Team MembersDeveloped by Team X-PANDA for software engineering coursework:NameRoleStudent IDHein Thura Naung (Ivan)Full-Stack Lead / Systems Architect6705140056Aung Myo Hlaing (Olary)Database Specialist / Backend Engineer6705140040Hein Zaw Linn (Hubert)UI/UX Designer / Frontend Engineer6705140038📄 LicenseThis project is created for academic purposes as part of the software engineering curriculum. All rights reserved by the project team.
