@@ -127,7 +127,7 @@ For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 
 ## 👥 Team Members
 
-Developed by Team **X-PANDA** for software engineering coursework:
+Developed by Team **X** for software engineering coursework:
 
 | Name | Role | Student ID |
 | :--- | :--- | :--- |
