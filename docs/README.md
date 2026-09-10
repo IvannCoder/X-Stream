@@ -59,10 +59,10 @@ Deliver a unified, accessible, and high-performance sports workspace that allows
 ## 📂 Agile Documentation
 Detailed engineering and product requirements are maintained within the `docs/` directory:
 
-* 📋 [Project Charter](./docs/PROJECT_CHARTER.md): Project purpose, team roles, module scopes, business objectives, and milestone constraints.
-* 📝 [Requirements Specification](./docs/REQUIREMENTS.md): Complete functional and non-functional requirements prioritized using the MoSCoW framework.
-* ✅ [Acceptance Criteria](./docs/ACCEPTANCE_CRITERIA.md): Observable, testable behavior defined in BDD (Given-When-Then) format for core workflows.
-* 🗄️ [Database Design](./docs/DATABASE_DESIGN.md): Logical schema, ERD, normalized tables, foreign key constraints, and privacy retention rules.
+* 📋 [Project Charter](./PROJECT_CHARTER.md): Project purpose, team roles, module scopes, business objectives, and milestone constraints.
+* 📝 [Requirements Specification](./REQUIREMENTS.md): Complete functional and non-functional requirements prioritized using the MoSCoW framework.
+* ✅ [Acceptance Criteria](./ACCEPTANCE_CRITERIA.md): Observable, testable behavior defined in BDD (Given-When-Then) format for core workflows.
+* 🗄️ [Database Design](./DATABASE_DESIGN.md): Logical schema, ERD, normalized tables, foreign key constraints, and privacy retention rules.
 
 ---
 
@@ -83,7 +83,7 @@ Detailed engineering and product requirements are maintained within the `docs/` 
 ## 🗃️ Data Model & Database Design
 The relational schema uses PostgreSQL with UUID primary keys and strict user ownership isolation (`users.user_id` foreign keys).
 
-For full details, review [Database Design Documentation](./docs/DATABASE_DESIGN.md).
+For full details, review [Database Design Documentation](./DATABASE_DESIGN.md).
 
 ---
 
